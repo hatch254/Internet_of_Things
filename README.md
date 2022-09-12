@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maingi
 - 👀 I’m interested in -> UX design, IoT, Python, Oracle & SQL Database and Kotlin
-- 🌱 I’m currently learning -> php and Kotlin
+- 🌱 I’m currently learning ->python for machine laerning, Kotlin and web programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
